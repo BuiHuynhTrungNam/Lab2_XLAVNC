@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thumbsup</folder>
+	<filename>thumbsup.6ec99430-5db1-11ed-ab52-0242ac1c0002.jpg</filename>
+	<path>D:\Object Detection\Image\thumbsup\thumbsup.6ec99430-5db1-11ed-ab52-0242ac1c0002.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ThumbsUp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>341</xmin>
+			<ymin>251</ymin>
+			<xmax>469</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+</annotation>
